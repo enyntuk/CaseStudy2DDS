@@ -9,7 +9,7 @@ By: Eny Ntuk
 Date: 2022-12-11
 
 Objective:
-This studies is to analyze the ABV (Alcohol By Volume) versus the IBU (International Bitterness Unit) of 2410 US craft beers made by 558 US breweries and to also show any relationship between the ABV and IBU of beers.
+This studies is to analyze and identify the top three factors that contribute to turnover and to learn about any job role specific trends that may exist in the data set. Also, a model is required to be built to predict attrition. Develop an RShiny App to visualize some of the relationships or lack thereof fromn the analysis. 
 
 Content:
 1) Data Sets
