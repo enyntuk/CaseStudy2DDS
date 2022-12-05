@@ -16,5 +16,5 @@ Content:
 2) RMarkdown File
 3) Knit File
 4) RShiny App Link
-5) Jekyll App
+5) Jekyll App Link
 6) Youtube/Zoom Link
