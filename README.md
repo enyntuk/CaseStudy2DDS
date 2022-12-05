@@ -2,9 +2,10 @@
 Case Study 2 - MSDS 6306 - Doing Data Science at SMU
 
 Case 2 Study - Project 2 - Unit 14 and 15
+
 Doing Data Science MSDS 6306 Class Projects at SMU
 
-Exploratory Data Analysis of Breweries in United States
+Exploratory Data Analysis of Attrition by DDSAnalytics Company
 By: Eny Ntuk
 Date: 2022-12-11
 
