@@ -10,7 +10,7 @@ Exploratory Data Analysis of Attrition by DDSAnalytics Company
 Date: 2022-12-11
 
 Objective:
-This studies is to analyze and identify the top three factors that contribute to turnover and to learn about any job role specific trends that may exist in the data set. Also, a model is required to be built to predict attrition. To develop an RShiny App to visualize some of the relationships or lack thereof fromn the analysis. 
+This study is to analyze and identify the top three factors that contribute to turnover and to learn about any job role specific trends that may exist in the data set. Also, a model is required to be built to predict attrition. To develop an RShiny App to visualize some of the relationships or lack thereof fromn the analysis. 
 
 Content:
 1) Data Sets
