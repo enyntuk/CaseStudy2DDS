@@ -19,5 +19,5 @@ Content:
 4) Shiny App File
 4) Powerpoint Presentation File
 5) Shiny App Link: https://wgzgum-eny-ntuk.shinyapps.io/CaseStudy2_Project/
-6) Jekyll App Link: github.com/enyntuk/EnyNtuk.github.io.git
+6) Jekyll App Link: https://github.com/enyntuk/EnyNtuk.github.io.git
 7) Youtube/Zoom Link: https://youtu.be/XHbbq70i7nY
