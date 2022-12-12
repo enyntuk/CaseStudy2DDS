@@ -10,7 +10,7 @@ Exploratory Data Analysis of Attrition by DDSAnalytics Company
 Date: 2022-12-11
 
 Objective:
-This study is to analyze and identify the top 3 factors that contribute to turnover (attrition) in this talent management company. And, to make recommendations for HR department to help improve talent management and to show any job role specific trends that may exist in the data set. To build a model to prediction "Attrition" and "Monthly Income for employees. Develop an Shiny App to visualize some of the relationships or lack thereof from the analysis. 
+This study is to analyze and identify the top 3 factors that contribute to turnover (attrition) in this talent management company. And, to make recommendations for HR department to help improve talent management and to show any job role specific trends that may exist in the data set. To build a model to prediction "Attrition" and "Monthly Income for employees. Develop a Shiny App to visualize some of the relationships or lack thereof from the analysis. 
 
 Content:
 1) Data Sets
